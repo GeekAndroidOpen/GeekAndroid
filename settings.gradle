@@ -1,0 +1,1 @@
+include ':app', ':router_api', ':router_compiler', ':router_gradle_plugin', ':permission', ':router_annotation'
